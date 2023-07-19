@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 1
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: e5aa6f5a9550caf409c214178ace7ca4, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -643899112, guid: e5aa6f5a9550caf409c214178ace7ca4, type: 3}
+  - {fileID: -1770915938, guid: e5aa6f5a9550caf409c214178ace7ca4, type: 3}
+  - {fileID: 1277330616, guid: e5aa6f5a9550caf409c214178ace7ca4, type: 3}
+  - {fileID: -181599995, guid: e5aa6f5a9550caf409c214178ace7ca4, type: 3}
+  - {fileID: 886476537, guid: e5aa6f5a9550caf409c214178ace7ca4, type: 3}
+  - {fileID: 1022814384, guid: e5aa6f5a9550caf409c214178ace7ca4, type: 3}
+  - {fileID: 2112539595, guid: e5aa6f5a9550caf409c214178ace7ca4, type: 3}
+  - {fileID: -418559239, guid: e5aa6f5a9550caf409c214178ace7ca4, type: 3}
+  - {fileID: -132422581, guid: e5aa6f5a9550caf409c214178ace7ca4, type: 3}
+  - {fileID: 1457057958, guid: e5aa6f5a9550caf409c214178ace7ca4, type: 3}
+  - {fileID: -1450077932, guid: e5aa6f5a9550caf409c214178ace7ca4, type: 3}
+  - {fileID: -294697785, guid: e5aa6f5a9550caf409c214178ace7ca4, type: 3}
+  - {fileID: 127081160, guid: e5aa6f5a9550caf409c214178ace7ca4, type: 3}
+  - {fileID: -350072291, guid: e5aa6f5a9550caf409c214178ace7ca4, type: 3}
+  - {fileID: -1506231490, guid: e5aa6f5a9550caf409c214178ace7ca4, type: 3}
+  - {fileID: 226476820, guid: e5aa6f5a9550caf409c214178ace7ca4, type: 3}
+  - {fileID: 1865525599, guid: e5aa6f5a9550caf409c214178ace7ca4, type: 3}
+  - {fileID: -833446893, guid: e5aa6f5a9550caf409c214178ace7ca4, type: 3}
+  - {fileID: 314890517, guid: e5aa6f5a9550caf409c214178ace7ca4, type: 3}
+  - {fileID: -985786353, guid: e5aa6f5a9550caf409c214178ace7ca4, type: 3}
+  - {fileID: -216321159, guid: e5aa6f5a9550caf409c214178ace7ca4, type: 3}
+  - {fileID: -627882758, guid: e5aa6f5a9550caf409c214178ace7ca4, type: 3}
+  - {fileID: 1855660208, guid: e5aa6f5a9550caf409c214178ace7ca4, type: 3}
+  - {fileID: -963025240, guid: e5aa6f5a9550caf409c214178ace7ca4, type: 3}
+  - {fileID: -988976337, guid: e5aa6f5a9550caf409c214178ace7ca4, type: 3}
+  - {fileID: -1477953836, guid: e5aa6f5a9550caf409c214178ace7ca4, type: 3}
+  - {fileID: -824950378, guid: e5aa6f5a9550caf409c214178ace7ca4, type: 3}
+  - {fileID: 1863217551, guid: e5aa6f5a9550caf409c214178ace7ca4, type: 3}
+  - {fileID: 1872270838, guid: e5aa6f5a9550caf409c214178ace7ca4, type: 3}
+  - {fileID: 358294115, guid: e5aa6f5a9550caf409c214178ace7ca4, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - SpriteSheet_13
+  - SpriteSheet_12
+  - SpriteSheet_11
+  - SpriteSheet_10
+  - SpriteSheet_26
+  - SpriteSheet_17
+  - SpriteSheet_27
+  - SpriteSheet_16
+  - SpriteSheet_24
+  - SpriteSheet_15
+  - SpriteSheet_25
+  - SpriteSheet_14
+  - SpriteSheet_22
+  - SpriteSheet_23
+  - SpriteSheet_20
+  - SpriteSheet_19
+  - SpriteSheet_21
+  - SpriteSheet_18
+  - SpriteSheet_28
+  - SpriteSheet_29
+  - SpriteSheet_0
+  - SpriteSheet_1
+  - SpriteSheet_2
+  - SpriteSheet_3
+  - SpriteSheet_4
+  - SpriteSheet_5
+  - SpriteSheet_6
+  - SpriteSheet_7
+  - SpriteSheet_8
+  - SpriteSheet_9
+  m_RenderDataMap: {}
+  m_Tag: Atlas
+  m_IsVariant: 0
